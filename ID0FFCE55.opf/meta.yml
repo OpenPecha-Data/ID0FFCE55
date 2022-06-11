@@ -1,0 +1,40 @@
+id: ID0FFCE55
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:34:20.337794'
+last_modified: '2022-06-11T13:34:20.337800'
+parser: null
+source_metadata:
+  title: Candrakīrti Series
+  language: bo
+  description: 'Texts and teachings related to the celebrated Indian Mādhyamika philosopher
+    Candrakīrti (zla ba grags pa):'
+  volume:
+    f5C0A:
+      title: Commentary on the Madhyamakāvatāra—Part 1—Collection of Reasoning
+      base_file: f5C0A.txt
+      order: 1
+      parent: Oral Teachings
+    f4ED5:
+      title: Commentary on the Madhyamakāvatāra—Part 2—Title and Translators Homage
+      base_file: f4ED5.txt
+      order: 2
+      parent: Oral Teachings
+    fD7CB:
+      title: Praise of Candrakīrti
+      base_file: fD7CB.txt
+      order: 3
+      parent: Praise
+    f5393:
+      title: 'The Melodious Song of Joy: In Praise of the Master Candrakīrti'
+      base_file: f5393.txt
+      order: 4
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
